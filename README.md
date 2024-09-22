@@ -47,9 +47,7 @@ This will open the app in your default web browser at http://localhost:3000
 
 ### Deployment
 
-To deploy the application, you can use platforms like Netlify.
-
-Here is the link:
+To deploy the application, you can use platforms like GitHub Pages.
 
 
 ### Usage
